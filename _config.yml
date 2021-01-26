@@ -1,11 +1,11 @@
 # Site settings
 author: Daniel Quillao
-title: Why I Quit My Job and Enrolled in a Data Science Bootcamp
+title: My Journey into Data Science
 header-img: img/home-bg.png
 email: quillaodaniel@gmail.com
 copyright_name: Daniel Quillao
 description: > # this means to ignore newlines until "baseurl:"
-  Was it the right decision?
+  Welcome!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dquillao
